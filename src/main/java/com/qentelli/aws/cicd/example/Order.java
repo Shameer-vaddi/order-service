@@ -1,4 +1,4 @@
-package com.javatechie.aws.cicd.example;
+package com.qentelli.aws.cicd.example;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
